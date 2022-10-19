@@ -2,10 +2,10 @@
 # Project Description:
 This website provides you with some options of car purchasing ,repair and some car services and accesories. User will have different option such as New cars or second hand cars. They can even have car repair and services from our company. We have different types of cars such as Hatchback, Sedan, Luxury and Suv's on best prices. User can trust second hand cars as they are completely checked by our mechanical experts. You can order car accesories from your home.
 # Dependency: 
-Sql server 15.0
-php version 8.1
-html 5
-bootstrap v5.2
+Sql server 15.0,
+php version 8.1,
+html 5,
+bootstrap v5.2 .
 
 # Getting Started :
  first user have to visit our website
